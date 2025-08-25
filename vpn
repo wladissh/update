@@ -1,9 +1,9 @@
 {
-    "Version": 1,
+    "Version": 2,
     "PainelConecta5G": false,
     "ReleaseNotes": "🚨Atenção!🚨\\n\\n📢Ao comprar qualquer plano de internet, você declara que leu e está de acordo com os termos de uso do aplicativo.\\n\\n🚦Para ler os termos acesse o site abaixo: 👇\\n\\n🌐wladissh.com.br/termos",
     "UrlUpdate": "https://raw.githubusercontent.com/wladissh/update/refs/heads/main/vpn",
-    "Sms": "https://painelconecta5g.com/update/pasta_WLADISSHC5G/sms",
+    "Sms": "",
     "logoonline": "https://i.ibb.co/7t76PYZC/IMG-20241206-215457-947.jpg",
     "fundoonline": "https://i.ibb.co/71RW5zy/backgroundapace.gif",
     "banneRodapeOnline": "",
@@ -117,45 +117,6 @@
             "SlowNameServer": "",
             "SlowDns": "",
             "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO GCLOUD [1]",
-            "FLAG": "vivo",
-            "Payload": "GET /app40 HTTP/1.1\r\nHost: [rotate=a-tl-223716025589.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "youtube.com#calendar.google.com#youtube.com",
-            "TlsIP": "youtube.com#74.125.24.101#calendar.google.com#youtube.com",
-            "ProxyIP": "youtube.com#74.125.24.101#calendar.google.com#youtube.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "VIVO GCLOUD [2]",
-            "FLAG": "vivo",
-            "Payload": "GET /app40 HTTP/1.1\r\nHost: [rotate=a-tl-223716025589.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "calendar.google.com#youtube.com#lh3.google.com.br",
-            "TlsIP": "calendar.google.com#lh3.google.com.br#youtube.com#r7xzj.app.goo.gl#gru09s19-in-f98.1e100.net#digitalewerkplaatsvoorstudenten.withgoogle.com#java-iphone.com#media.ampproject.org#zcj75.app.goo.gl#db.withgoogle.com#cse.google.tk#fra02s19-in-f2.1e100.net#se8g4.app.goo.gl#9im6jjs425770o267f7u4gprd0l4tbn2.a.blogger.gmodules.com#5481512.fls.doubleclick.net#bumptop.ca#get.google.com#wxnm4j.app.goo.gl#aa4ev.app.goo.gl#acse.google.com.pa#afonts.google.com#a-o.o.preferred.mena-bah1.v20.lscache6.c.youtube.com#a-get.duo.google.com#a-thinkwithgoogle.fr#a-ck3q5.app.goo.gl#a-lhr25s26-in-f2.1e100.net#a-apx6u.app.goo.gl#a-n5sbc.app.goo.gl#a-o.o.preferred.sn-o097zne7.v24.lscache3.c.android.clients.google.com#a-byq6z.app.goo.gl#a-khms.l.google.com#a-thousandgoing.com#a-music2015.withgoogle.com#a-mad41s11-in-f6.1e100.net#a-experiments.withgoogle.com#a-ampcid.google.com.tw#a-test.withgoogle.com#a-xpa.app.goo.gl#a-xaqg2.app.goo.gl#a-rio07s07-in-f8.1e100.net#a-lga34s39-in-f6.1e100.net#a-qne8y.app.goo.gl#a-rio07s03-in-f6.1e100.net#a-ec44m.app.goo.gl#a-zrkndnzp7k.com#a-yaxf6.app.goo.gl#a-dn66q.app.goo.gl#a-notablewomen.withgoogle.com#a-static.withyoutube.com#a-v3.lscache3.c.bigcache.googleapis.com",
-            "ProxyIP": "calendar.google.com#lh3.google.com.br#youtube.com#r7xzj.app.goo.gl#gru09s19-in-f98.1e100.net#digitalewerkplaatsvoorstudenten.withgoogle.com#java-iphone.com#media.ampproject.org#zcj75.app.goo.gl#db.withgoogle.com#cse.google.tk#fra02s19-in-f2.1e100.net#se8g4.app.goo.gl#9im6jjs425770o267f7u4gprd0l4tbn2.a.blogger.gmodules.com#5481512.fls.doubleclick.net#bumptop.ca#get.google.com#wxnm4j.app.goo.gl#aa4ev.app.goo.gl#acse.google.com.pa#afonts.google.com#a-o.o.preferred.mena-bah1.v20.lscache6.c.youtube.com#a-get.duo.google.com#a-thinkwithgoogle.fr#a-ck3q5.app.goo.gl#a-lhr25s26-in-f2.1e100.net#a-apx6u.app.goo.gl#a-n5sbc.app.goo.gl#a-o.o.preferred.sn-o097zne7.v24.lscache3.c.android.clients.google.com#a-byq6z.app.goo.gl#a-khms.l.google.com#a-thousandgoing.com#a-music2015.withgoogle.com#a-mad41s11-in-f6.1e100.net#a-experiments.withgoogle.com#a-ampcid.google.com.tw#a-test.withgoogle.com#a-xpa.app.goo.gl#a-xaqg2.app.goo.gl#a-rio07s07-in-f8.1e100.net#a-lga34s39-in-f6.1e100.net#a-qne8y.app.goo.gl#a-rio07s03-in-f6.1e100.net#a-ec44m.app.goo.gl#a-zrkndnzp7k.com#a-yaxf6.app.goo.gl#a-dn66q.app.goo.gl#a-notablewomen.withgoogle.com#a-static.withyoutube.com#a-v3.lscache3.c.bigcache.googleapis.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "VIVO GCLOUD [3]",
-            "FLAG": "vivo",
-            "Payload": "GET /app40 HTTP/1.1\r\nHost: [rotate=a-tl-223716025589.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "mil07s07-in-f14.1e100.net#c35c5.app.goo.gl#fra24s05-in-f8.1e100.net#fra24s01-in-f8.1e100.net#adwords.com.tr#lga25s77-in-f8.1e100.net#cse.google.ml#admob.no#kjj2s.app.goo.gl#cse.google.gl#tabel.withgoogle.com#adwords.net#yyz08s09-in-f14.1e100.net#b3cq9.app.goo.gl#youtube.me#gseacnw61z.com",
-            "TlsIP": "mil07s07-in-f14.1e100.net#c35c5.app.goo.gl#fra24s05-in-f8.1e100.net#fra24s01-in-f8.1e100.net#adwords.com.tr#lga25s77-in-f8.1e100.net#cse.google.ml#admob.no#kjj2s.app.goo.gl#cse.google.gl#tabel.withgoogle.com#adwords.net#yyz08s09-in-f14.1e100.net#b3cq9.app.goo.gl#youtube.me#gseacnw61z.com",
-            "ProxyIP": "mil07s07-in-f14.1e100.net#c35c5.app.goo.gl#fra24s05-in-f8.1e100.net#fra24s01-in-f8.1e100.net#adwords.com.tr#lga25s77-in-f8.1e100.net#cse.google.ml#admob.no#kjj2s.app.goo.gl#cse.google.gl#tabel.withgoogle.com#adwords.net#yyz08s09-in-f14.1e100.net#b3cq9.app.goo.gl#youtube.me#gseacnw61z.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
         },
         {
             "Name": "VIVO SEM LOGIN [1]",
